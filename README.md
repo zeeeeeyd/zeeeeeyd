@@ -5,7 +5,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend Developer
 ------------------
 
-Hey there! 👋 I'm Zeyd, a 23-year-old AI student who loves building cool stuff on the web. I'm your go-to person for making websites and apps look awesome and work smoothly. I'm all about the latest tech, like React.js, Next.js, and Material UI etc ..., to bring your ideas to life. When I'm not coding, I'm busy creating stunning UI/UX designs using tools like Adobe and Figma. I believe in making things not just functional but also visually appealing with such nice creativity. In the world of data science, I dig into data, clean it up, and use it to create smart models. Whether it's Deep Learning or Machine Learning, I've got it covered. I enjoy finding hidden patterns in data that can help make better decisions. If you're curious about what I've been up to, check out my GitHub. There's a mix of coding, design, and some really cool projects. Let's team up and build something amazing together! 🚀
+Hey there! 👋 I'm Zeyd, AI student who loves building cool stuff on the web. I'm your go-to person for making websites and apps look awesome and work smoothly. I'm all about the latest tech, like React.js, Next.js, and Material UI etc ..., to bring your ideas to life. When I'm not coding, I'm busy creating stunning UI/UX designs using tools like Adobe and Figma. I believe in making things not just functional but also visually appealing with such nice creativity. In the world of data science, I dig into data, clean it up, and use it to create smart models. Whether it's Deep Learning or Machine Learning, I've got it covered. I enjoy finding hidden patterns in data that can help make better decisions. If you're curious about what I've been up to, check out my GitHub. There's a mix of coding, design, and some really cool projects. Let's team up and build something amazing together! 🚀
 
 * 🌍  I'm based in Algeria , Mostaganem
 * ✉️  You can contact me at [saiadzeyd@gmail.com](mailto:saiadzeyd@gmail.com)
@@ -29,7 +29,7 @@ Hey there! 👋 I'm Zeyd, a 23-year-old AI student who loves building cool stuff
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" />
   </a>
   <a href="https://www.github.com/zeeeeeyd" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" style="filter: invert(1);" />
   </a>
   <a href="http://www.instagram.com/proudofzoldyck" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" />
@@ -38,9 +38,10 @@ Hey there! 👋 I'm Zeyd, a 23-year-old AI student who loves building cool stuff
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
   </a>
   <a href="https://www.threads.net/@proudofzoldyck" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" width="32" height="32" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" width="32" height="32" style="filter: invert(1);" />
   </a>
 </p>
+
 
 
 <b>My GitHub Stats</b>
