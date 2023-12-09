@@ -5,7 +5,37 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend Developer
 ------------------
 
-Hey there! 👋 I'm Zeyd, AI student who loves building cool stuff on the web. I'm your go-to person for making websites and apps look awesome and work smoothly. I'm all about the latest tech, like React.js, Next.js, and Material UI etc ..., to bring your ideas to life. When I'm not coding, I'm busy creating stunning UI/UX designs using tools like Adobe and Figma. I believe in making things not just functional but also visually appealing with such nice creativity. In the world of data science, I dig into data, clean it up, and use it to create smart models. Whether it's Deep Learning or Machine Learning, I've got it covered. I enjoy finding hidden patterns in data that can help make better decisions. If you're curious about what I've been up to, check out my GitHub. There's a mix of coding, design, and some really cool projects. Let's team up and build something amazing together! 🚀
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Zeyd's GitHub ReadMe</title>
+</head>
+
+<body style="background-color: #0f172a; color: #ffffff; font-family: 'Arial', sans-serif;">
+
+  <div style="text-align: center;">
+    <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="Welcome to my Space!" />
+    <h1 style="margin-top: 20px;">Hey there! 👋 I'm Zeyd, an AI student...</h1>
+  </div>
+
+  <!-- Initial bio content -->
+  <p>Hey there! 👋 I'm Zeyd, an AI student who loves building cool stuff on the web. I'm your go-to person for making websites and apps look awesome and work smoothly. I'm all about the latest tech, like React.js, Next.js, and Material UI, to bring your ideas to life.</p>
+
+  <p>When I'm not coding, I'm busy creating stunning UI/UX designs using tools like Adobe and Figma. I believe in making things not just functional but also visually appealing with such nice creativity. In the world of data science, I dig into data, clean it up, and use it to create smart models. Whether it's Deep Learning or Machine Learning, I've got it covered. I enjoy finding hidden patterns in data that can help make better decisions.</p>
+
+  <p>If you're curious about what I've been up to, check out my GitHub. There's a mix of coding, design, and some really cool projects. Let's team up and build something amazing together! 🚀</p>
+
+  <!-- Read More link -->
+  <p style="text-align: center;"><a href="#read-more" style="color: #84cc16; text-decoration: none;">Read More</a></p>
+
+</body>
+
+</html>
+
 
 * 🌍  I'm based in Algeria , Mostaganem
 * ✉️  You can contact me at [saiadzeyd@gmail.com](mailto:saiadzeyd@gmail.com)
