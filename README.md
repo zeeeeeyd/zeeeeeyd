@@ -1,8 +1,8 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Welcome to my Space !
 ==================================================================================================================================
-
+<h1>
 Frontend Developer
-------------------
+</h1>
 
   ***Zeyd*** is an AI student and web developer passionate about creating visually appealing websites and apps using technologies like React.js and Next.js. With skills in UI/UX design and data science, Zeyd combines creativity and functionality. Check out Zeyd's GitHub for a mix of coding, design, and cool projects. Let's team up and build something amazing together! 🚀
 
