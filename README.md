@@ -12,9 +12,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 
 * ✉️  You can contact me at [saiadzeyd@gmail.com](mailto:saiadzeyd@gmail.com)
-* 💻 I'm learning Backend web dev {Fast API, Node.js, MangoDB ...}
+* 💻 I'm learning Backend web dev {Nest.js, React Native ...}
 * 🤝  I'm open to collaborating on Web development , Data Science project
-* ⚡  I have a cat named Oliver 🐈
+* ⚡  I have a 3 cats named Leeya, Leo, Tom 🐈
 <br/>
 
 ### Most used technologies
