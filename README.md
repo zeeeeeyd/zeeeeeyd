@@ -9,7 +9,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-AI%20%26%20Web%20Dev-brightgreen" />
-  <img src="https://img.shields.io/badge/Lives-Morocco-success" />
+  <img src="https://img.shields.io/badge/Lives-Algeria-success" />
   <img src="https://img.shields.io/badge/Languages-English%20%26%20French-brightgreen" />
 </p>
 
