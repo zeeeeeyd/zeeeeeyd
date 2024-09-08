@@ -1,57 +1,64 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Welcome to my Space !
-==================================================================================================================================
+# Hi there, I'm SAIAD Zeyd! 👋 
 
-<h1>
-   <font color="green"> SAIAD Zeyd </font>
-</h1>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=22C55E&center=true&vCenter=true&width=435&lines=AI+Student;Web+Developer;UI%2FUX+Enthusiast;Data+Science+Explorer" alt="Typing SVG" />
+</div>
 
-<br/>
+## 🚀 About Me
 
-### About Me !
-  ***Zeyd*** is an AI student and web developer passionate about creating visually appealing websites and apps using technologies like React.js and Next.js. With skills in UI/UX design and data science, Zeyd combines creativity and functionality. Check out Zeyd's GitHub for a mix of coding, design, and cool projects. Let's team up and build something amazing together! 🚀
+I'm an AI student and web developer passionate about creating visually appealing websites and apps. I love working with technologies like React.js and Next.js to bring ideas to life. With a keen interest in UI/UX design and data science, I strive to combine creativity and functionality in my projects.
 
+- 🌱 Currently learning Backend web dev (Nest.js, React Native)
+- 👯 Open to collaborating on Web development and Data Science projects
+- 📫 Reach me at: [saiadzeyd@gmail.com](mailto:saiadzeyd@gmail.com)
+- 😺 Fun fact: I have 3 cats named Leeya, Leo, and Tom 🐈
 
-* ✉️  You can contact me at [saiadzeyd@gmail.com](mailto:saiadzeyd@gmail.com)
-* 💻 I'm learning Backend web dev {Nest.js, React Native ...}
-* 🤝  I'm open to collaborating on Web development , Data Science project
-* ⚡  I have a 3 cats named Leeya, Leo, Tom 🐈
-<br/>
+## 🛠️ Technologies & Tools
 
-### Most used technologies
+<div align="center">
 
-<p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>&nbsp;&nbsp;<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>&nbsp;&nbsp;<a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36" height="36" alt="Dart" /></a>&nbsp;&nbsp;<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>&nbsp;&nbsp;<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>&nbsp;&nbsp;</a>&nbsp;&nbsp;<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>&nbsp;&nbsp;<a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a>&nbsp;&nbsp;<a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="36" height="36" alt="TensorFlow" /></a>&nbsp;&nbsp;<a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a>&nbsp;&nbsp;<a href="https://store.arduino.cc/?gclid=Cj0KCQjw2eilBhCCARIsAG0Pf8uueBifykWcsSS4LPESeGQfxGVKJYnzV7bz471XfknQJy_1VINVWM8aAkLtEALw_wcB" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" width="36" height="36" alt="Arduino" /></a>&nbsp;&nbsp;<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>&nbsp;&nbsp;<a href="https://www.adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a>&nbsp;&nbsp;<a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg" width="36" height="36" alt="XD" /></a>&nbsp;&nbsp;<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-</p>
-<br/>
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Material-UI](https://img.shields.io/badge/-Material_UI-0081CB?style=flat-square&logo=material-ui&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white)
+![Illustrator](https://img.shields.io/badge/-Illustrator-FF9A00?style=flat-square&logo=adobe-illustrator&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/-Adobe_XD-FF61F6?style=flat-square&logo=adobe-xd&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
-### 📬 Reach me out!
+</div>
 
-<p align="left">
-  <a href="https://www.behance.com/zeydsaiad" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/behance.svg" width="32" height="32" />
-  </a>&nbsp;&nbsp;
-  <a href="https://discord.com/users/zoldyyyck#3189" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" />
-  </a>&nbsp;&nbsp;
-  <a href="https://www.github.com/zeeeeeyd" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" style="filter: invert(1);" />
-  </a>&nbsp;&nbsp;
-  <a href="http://www.instagram.com/proudofzoldyck" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" />
-  </a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/zeyd-saiad-2221151a7/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
-  </a>&nbsp;&nbsp;
-  <a href="https://www.threads.net/@proudofzoldyck" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" width="32" height="32" style="filter: invert(1);" />
-  </a>
-</p>
+## 📊 GitHub Stats
 
-<br/>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zeeeeeyd&show_icons=true&count_private=true&title_color=84cc16&text_color=ffffff&icon_color=84cc16&bg_color=0f172a&hide_border=true&show_icons=true" alt="zeeeeeyd's GitHub stats" />
+</div>
 
-<b>My GitHub Stats</b>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zeeeeeyd&stroke=ffffff&background=0f172a&ring=84cc16&fire=84cc16&currStreakNum=ffffff&currStreakLabel=84cc16&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="zeeeeeyd's GitHub streak" />
+</div>
 
-<a href="http://www.github.com/zeeeeeyd"><img src="https://github-readme-stats.vercel.app/api?username=zeeeeeyd&show_icons=true&hide=&count_private=true&title_color=84cc16&text_color=ffffff&icon_color=84cc16&bg_color=0f172a&hide_border=true&show_icons=true" alt="zeeeeeyd's GitHub stats" /></a>
+## 🌐 Let's Connect!
 
-<a href="http://www.github.com/zeeeeeyd"><img src="https://github-readme-streak-stats.herokuapp.com/?user=zeeeeeyd&stroke=ffffff&background=0f172a&ring=84cc16&fire=84cc16&currStreakNum=ffffff&currStreakLabel=84cc16&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<div align="center">
 
+[![Behance](https://img.shields.io/badge/-Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.com/zeydsaiad)
+[![Discord](https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/zoldyyyck#3189)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/zeeeeeyd)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](http://www.instagram.com/proudofzoldyck)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zeyd-saiad-2221151a7/)
+[![Threads](https://img.shields.io/badge/-Threads-000000?style=for-the-badge&logo=threads&logoColor=white)](https://www.threads.net/@proudofzoldyck)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=zeeeeeyd&color=brightgreen" alt="Profile views" />
+</div>
