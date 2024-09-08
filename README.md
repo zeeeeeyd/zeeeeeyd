@@ -52,13 +52,13 @@ me.say_hi()
 <hr/>
 
 <h2 align="center">📊 GitHub Stats</h2>
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zeeeeeyd&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zeeeeeyd&theme=radical" alt="GitHub Streak" />
+  <a href="http://www.github.com/zeeeeeyd">
+    <img src="https://github-readme-stats.vercel.app/api?username=zeeeeeyd&show_icons=true&hide=&count_private=true&title_color=ff66c4&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&show_icons=true" alt="zeeeeeyd's GitHub stats" height="192px"/>
+  </a>
+  <a href="http://www.github.com/zeeeeeyd">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=zeeeeeyd&stroke=ffffff&background=1c1917&ring=ff66c4&fire=ff66c4&currStreakNum=ffffff&currStreakLabel=ff66c4&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" height="192px"/>
+  </a>
 </p>
 
 <hr/>
