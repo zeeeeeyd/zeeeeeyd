@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/badge/Languages-English%20%26%20French-brightgreen" />
 </p>
 
-<hr/>
+
 
 <h2 align="center">🚀 About Me</h2>
 
@@ -35,7 +35,7 @@ me.say_hi()
 
 <h3 align="center">Open for Collaborations in Web Development and Data Science Projects! 🤝</h3>
 
-<hr/>
+
 
 <h2 align="center">🛠️ Languages & Tools</h2>
 
@@ -49,7 +49,7 @@ me.say_hi()
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
 </p>
 
-<hr/>
+
 
 <h2 align="center">📊 GitHub Stats</h2>
 <p align="center">
@@ -61,7 +61,7 @@ me.say_hi()
   </a>
 </p>
 
-<hr/>
+
 
 <h2 align="center">🌐 Connect with Me</h2>
 
@@ -73,7 +73,7 @@ me.say_hi()
   <a href="http://www.instagram.com/proudofzoldyck"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
 
-<hr/>
+
 
 <h2 align="center">💡 A Random Dev Quote</h2>
 
@@ -81,7 +81,7 @@ me.say_hi()
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
 </p>
 
-<hr/>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=zeeeeeyd&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
