@@ -23,8 +23,8 @@ class ZeydSaiad:
         self.name = "Zeyd Saiad"
         self.role = "AI Student | Web Developer"
         self.language_spoken = ["fr_FR", "en_US"]
-        self.current_learning = ["Backend dev", "Nest.js", "React Native"]
-        self.cat_names = ["Leeya", "Leo", "Tom"]
+        self.current_learning = ["Knowledge Graph", "RAG", "Atoms"]
+        self.cat_names = ["Coca", "Hero"]
 
     def say_hi(self):
         print("Thanks for dropping by! I'm passionate about crafting beautiful and functional web experiences.")
